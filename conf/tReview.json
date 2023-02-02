@@ -1,0 +1,81 @@
+[{
+    "_id": {
+      "$oid": "63d39a263c46c013020ea8f3"
+    },
+    "MenuName": "된장찌개",
+    "Scorenum": 5,
+    "Orderer": "민땡땡",
+    "Review": "너무 맛있어요. 일주일에 두번은 시켜먹어요!"
+  },{
+    "_id": {
+      "$oid": "63d39a613c46c013020ea8f4"
+    },
+    "MenuName": "돈까스",
+    "Scorenum": 3.5,
+    "Orderer": "김땡땡",
+    "Review": "괜찮은데 가성비가 좀 나쁜거 같습니다."
+  },{
+    "_id": {
+      "$oid": "63d39a8e3c46c013020ea8f5"
+    },
+    "MenuName": "치즈 돈까스",
+    "Scorenum": 4,
+    "Orderer": "김땡땡",
+    "Review": "치즈가 많아서 좋아요."
+  },{
+    "_id": {
+      "$oid": "63d39ac13c46c013020ea8f6"
+    },
+    "MenuName": "김치찌개",
+    "Scorenum": 3,
+    "Orderer": "김땡땡",
+    "Review": "평범해요."
+  },{
+    "_id": {
+      "$oid": "63d39ae63c46c013020ea8f7"
+    },
+    "MenuName": "김치찌개",
+    "Scorenum": 4,
+    "Orderer": "최땡땡",
+    "Review": "가성비가 좋아서 자주 시켜먹어요."
+  },{
+    "_id": {
+      "$oid": "63d39b093c46c013020ea8f8"
+    },
+    "MenuName": "김치찌개",
+    "Scorenum": 4.5,
+    "Orderer": "최땡땡",
+    "Review": "양이 푸짐해요."
+  },{
+    "_id": {
+      "$oid": "63d39b433c46c013020ea8f9"
+    },
+    "MenuName": "쫄면",
+    "Scorenum": 4,
+    "Orderer": "오땡땡",
+    "Review": "야채가 많아서 좋아요."
+  },{
+    "_id": {
+      "$oid": "63d39b733c46c013020ea8fc"
+    },
+    "MenuName": "모듬 돈까스",
+    "Scorenum": 4,
+    "Orderer": "오땡땡",
+    "Review": "양이 많아서 좋아요."
+  },{
+    "_id": {
+      "$oid": "63d39ba13c46c013020ea8fd"
+    },
+    "MenuName": "부대찌개",
+    "Scorenum": 2,
+    "Orderer": "우땡땡",
+    "Review": "너무 짰어요. 건더기도 부족해요"
+  },{
+    "_id": {
+      "$oid": "63d39bc53c46c013020ea8fe"
+    },
+    "MenuName": "부대찌개",
+    "Scorenum": 3,
+    "Orderer": "최땡땡",
+    "Review": "평범한데 좀 느끼했어요..ㅠㅠ"
+  }]

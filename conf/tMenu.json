@@ -1,0 +1,92 @@
+[{
+    "_id": {
+      "$oid": "639a8ea91cbab64e75881eeb"
+    },
+    "MenuName": "된장찌개",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "김치:국산"],
+    "Price": 10000,
+    "RegistTime": 1671074346,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 0,
+    "Score": 3.3
+  },{
+    "_id": {
+      "$oid": "639a8ea91cbab64e75882eeb"
+    },
+    "MenuName": "김치찌개",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "김치:국산"],
+    "Price": 10000,
+    "RegistTime": 1671074348,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 2,
+    "Score": 4.3
+  },{
+    "_id": {
+      "$oid": "63d34e0f3c46c013020ea8d6"
+    },
+    "MenuName": "돈까스",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "돼지고기:국산"],
+    "Price": 12000,
+    "RegistTime": 1671074350,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 5,
+    "Score": 4.2
+  },{
+    "_id": {
+      "$oid": "63d34e423c46c013020ea8d8"
+    },
+    "MenuName": "치즈 돈까스",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "돼지고기:국산", "치즈:네덜란드"],
+    "Price": 15000,
+    "RegistTime": 1671074355,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 4,
+    "Score": 3
+  },{
+    "_id": {
+      "$oid": "63d34e723c46c013020ea8d9"
+    },
+    "MenuName": "모듬 돈까스",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "돼지고기:국산", "치즈:네덜란드"],
+    "Price": 15000,
+    "RegistTime": 1671074360,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 2,
+    "Score": 3.8
+  },{
+    "_id": {
+      "$oid": "63d34e8f3c46c013020ea8da"
+    },
+    "MenuName": "부대찌개",
+    "AbleToOrder": true,
+    "Origin": ["쌀:중국산", "햄:국산", "치즈:네덜란드"],
+    "Price": 12000,
+    "RegistTime": 1671074370,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 1,
+    "Score": 4.5
+  },{
+    "_id": {
+      "$oid": "63d3907b3c46c013020ea8dc"
+    },
+    "MenuName": "쫄면",
+    "AbleToOrder": true,
+    "Origin": ["고추장:중국산", "야채:국산"],
+    "Price": 8000,
+    "RegistTime": 1671074390,
+    "ViewFlag": true,
+    "RecoFlag": false,
+    "ReorderNum": 2,
+    "Score": 3.8
+  }]

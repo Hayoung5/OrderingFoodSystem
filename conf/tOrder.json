@@ -1,0 +1,63 @@
+[{
+    "_id": {
+      "$oid": "63d394803c46c013020ea8e5"
+    },
+    "OrderNumber": 1,
+    "OrderedMenu": [
+      "김치찌개:1",
+      "부대찌개:1"
+    ],
+    "TotalPrice" : 22000,
+    "Orderer": "김땡땡",
+    "OrderedTime": 1671074346,
+    "State": "배달완료"
+  },{
+    "_id": {
+      "$oid": "63d394803c46c013020ea8e6"
+    },
+    "OrderNumber": 2,
+    "OrderedMenu": [
+      "치즈돈까스:1",
+      "부대찌개:1"
+    ],
+    "TotalPrice" : 27000,
+    "Orderer": "최땡땡",
+    "OrderedTime": 1671074356,
+    "State": "배달완료"
+  },{
+    "_id": {
+      "$oid": "63d397a03c46c013020ea8ed"
+    },
+    "OrderNumber": 3,
+    "OrderedMenu": [
+      "돈까스:1"
+    ],
+    "TotalPrice" : 10000,
+    "Orderer": "박땡땡",
+    "OrderedTime": 1671074346,
+    "State": "배달중"
+  },{
+    "_id": {
+      "$oid": "63d398103c46c013020ea8f0"
+    },
+    "OrderNumber": 4,
+    "OrderedMenu": [
+      "된장찌개:1"
+    ],
+    "TotalPrice" : 10000,
+    "Orderer": "이땡땡",
+    "OrderedTime": 1671074646,
+    "State": "접수중"
+  },{
+    "_id": {
+      "$oid": "63d398413c46c013020ea8f1"
+    },
+    "OrderNumber": 5,
+    "OrderedMenu": [
+      "된장찌개:2"
+    ],
+    "TotalPrice" : 20000,
+    "Orderer": "민땡땡",
+    "OrderedTime": 1671084346,
+    "State": "조리중"
+  }]

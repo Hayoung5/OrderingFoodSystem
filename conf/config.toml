@@ -1,0 +1,31 @@
+[server] ##nomal type
+mode = "dev"
+port = ":8080"
+
+[db] #data access object
+[db.user] #이중 map type map[string]map[string]interface{}
+host = "mongodb://localhost:27017"
+user = "user"
+pass = "user!@"
+name = "userDB"
+
+[db.account]
+host = "mongodb://localhost:27017"
+user = "admin"
+pass = "admin!@"
+name = "accountDB"
+
+#worker pool job object
+[[work]] #배열구조, jobs []job
+name = "HeartBeat"
+desc = "log"
+excute = "x"
+duration = 300
+args = "resv"
+
+[[work]]
+name = "exam"
+desc = "exam"
+excute = "x"
+duration = 60
+args = "exam"
